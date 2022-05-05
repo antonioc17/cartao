@@ -1,0 +1,52 @@
+@import url('http://fonts.cdnfonts.com/css/ts-block?styles=10938');
+
+*{
+    text-decoration: none;
+}
+
+body{
+    background: -webkit-linear-gradient(180deg, #ffffff, cadetblue);
+}
+
+h1{
+font-family: 'TS Block Bold', sans-serif;
+text-align: center;
+font-size: 30px;
+}
+
+
+#cartao{
+    box-shadow: 5px 7px 7px #032d2e;
+    border-radius: 10px;
+    background-color: cadetblue;
+    margin: 250px auto;
+    width: 500px; 
+    height: 350px;
+    padding: 20px;
+    text-align-last: ;
+}
+
+#infos{
+    display:flex;
+    flex-direction: row;
+}
+
+img{
+    border-radius: 50%;
+}
+
+figcaption{
+    
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#info ul li{
+    padding:10px;
+    text-align: center;
+    font-family: 'TS Block Bold', sans-serif;
+    list-style: none;
+}
+
+a{
+    color:black;
+}
